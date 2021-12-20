@@ -1,0 +1,67 @@
+[
+  {
+      "id": "1",
+      "nome": "Grey´s Anatomy",
+      "foto1": "https://i.pinimg.com/originals/33/39/9d/33399df9faacc5de9e3928f52fabbacf.jpg",
+      "foto2": "https://rotaprincipal.com.br/wp-content/uploads/2018/05/capa-greys.jpg",
+      "descricao": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+      "elenco": "Ellen Pompeo,Sandra Oh, Patrick Dempsey, Katherine Heigl, Sara Ramírez, Justin Chambers and Jesse Willians."
+  },
+  {
+      "id": "2",
+      "nome": "Peaky Blinders",
+      "foto1": "https://i.pinimg.com/originals/50/8f/ba/508fba93c5f1b8f1ea1db81dd969e2a0.jpg",
+      "foto2": "https://www.correio24horas.com.br/fileadmin/_processed_/1/a/csm_Peaky_Blinders_7_c271aa7f05.jpeg",
+      "descricao": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "elenco": "Cillian Murphy, Tom Hardy, Helen McCrory, Joe Cole, Annabelle Wallis, Anya Taylot-Joy, Fin Cole, Sam Claffin and Charlotte Riley." 
+  },
+  {
+      "id": "3",
+      "nome": "Black Summer",
+      "foto1": "https://i.pinimg.com/736x/e6/5a/3a/e65a3a4a13f4c0533bc1a74dd38673fb.jpg",
+      "foto2": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfaf0E51lEnHCWrKPVMnO0ujdULJgN2YsC31bpCzDzRhBQrlCzAH4aoi6R7xsIGLsiXalmfia0E01zB23y0HkChLC47z.jpg?r=691",
+      "descricao": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+      "elenco": "Jaime King,Justin Chu Cary, Zoe Marlett, Erika Hau, Salvador Velez and Christine Lee."  
+  },
+  {
+      "id": "4",
+      "nome": "Suits",
+      "foto1": "https://4.bp.blogspot.com/-W15zh9jgQ_4/XA-t7UhImNI/AAAAAAAAIyQ/xf7hojunBwQthEFZDaNoN1eO0YZGIBUnwCLcBGAs/s1600/suits-season-4-poster-usa.jpg",
+      "foto2": "https://static.vix.com/pt/sites/default/files/s/serie-suits-0317-1400x800.jpg",
+      "descricao": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.",
+      "elenco": "Patrick Adams, Gabriel Macht, Meghan Markle, Sarah Rafferty, Gina Torres and Rick Hoffman."  
+  },
+  {
+      "id": "5",
+      "nome": "The Witcher",
+      "foto1": "https://i.pinimg.com/736x/6c/40/3e/6c403ecb280e490fc89d6c58439158a4.jpg",
+      "foto2": "https://br.web.img3.acsta.net/newsv7/21/08/20/21/25/1318675.jpg",
+      "descricao": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "elenco": "Henry Cavill,Anya Chalotra, Joey Batey, MyAanna Buring, Anna Shaffer and Freya Allan."
+  },
+  {
+      "id": "6",
+      "nome": "The mentalist",
+      "foto1": "https://i.pinimg.com/originals/69/d2/ab/69d2ab8af047c6698ddeb7af447d96e6.jpg",
+      "foto2": "https://www.rbsdirect.com.br/filestore/6/1/0/5_a525899396e8e25/5016_ff6badb1f5302f0.jpg?w=700",
+      "descricao": "A famous psychic outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find Red John, the madman who killed his wife and daughter.",
+      "elenco": "Amanda Righetti,Owain Yeoman ,Tim Kang,Robin Tunney and Simon Baker."
+  },
+  {
+      "id": "7",
+      "nome": "Narcos",
+      "foto1": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+      "foto2": "https://cinemaemserie.com.br/wp-content/uploads/2015/09/narcos-netflix-s1-capa.jpg",
+      "descricao": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "elenco": "Wagner Moura, Pedro Pascal, Alberto Ammann, Boyd Holbrook, Paulina Gaitán and Boyd Holbrook."
+  },
+  {
+    "id": "8",
+    "nome": "La casa de Papel",
+    "foto1": "https://media.fstatic.com/BB2ZJc8fjRIzBfE1ozsR63bJ4OU=/290x478/smart/media/movies/covers/2020/03/89671311_1173664589642635_7388279694758211657_n.jpg",
+    "foto2": "https://www.oficinadanet.com.br/imagens/post/36790/capa-la-casa-de-papel_x_1400x788.png",
+    "descricao": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan",
+    "elenco": "Úrsula Corberó, Álvaro Morte, Itziar Ituño, Miguel Herrán, Jaime Lorente, Pedro Alonso and Alba Flores"
+
+  } 
+]
