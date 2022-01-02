@@ -1,5 +1,7 @@
 # TVShowApp
 
+![appPhoto](https://user-images.githubusercontent.com/63261217/147887654-068d8c84-576e-40cf-a866-fe6a8f8a3640.png)
+
 **Description**
 
 :pushpin: Implementation of an app that lists a few tv shows app using an API. On the app, you can see photos, trailers, and descriptions for each show and you can add your favorites to a list.
