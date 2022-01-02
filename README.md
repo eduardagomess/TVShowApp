@@ -28,4 +28,4 @@
 
 6) After the above commands, use your  phone camera to read de QRcode to open the app on your phone
 
-At the end of these steps, the app will be working in the expo app and ready to be used!
+At the end of these steps, the app will be working in the expo app and ready to be tested!
