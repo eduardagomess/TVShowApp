@@ -8,9 +8,7 @@
 
 **Technologies**
 
-:arrow_forward: ***Frontend*** - React 
-
-:arrow_forward: ***Backend*** - Node.js and Express 
+:arrow_forward: React Native
 
 **Run**
 
